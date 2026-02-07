@@ -116,3 +116,6 @@ chroma_db/
 *.csv
 *.txt
 !requirements.txt
+
+# FastCampus mapping (internal use only)
+FASTCAMPUS_MAPPING.md
