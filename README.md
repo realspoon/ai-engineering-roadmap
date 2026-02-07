@@ -8,7 +8,6 @@
 | **기간** | 8개월 (32주) |
 | **주당 학습시간** | 5-10시간 (파트타임) |
 | **최종 목표** | 실무 적용 가능한 AI Agent 프로젝트 구축 |
-
 ---
 
 ## 🎯 3가지 트랙
@@ -125,6 +124,25 @@
 | ⭐⭐⭐ | [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/) | John Berryman, Albert Ziegler | 2024.12 |
 | ⭐⭐ | [Building Applications with AI Agents](https://www.oreilly.com/library/view/building-applications-with/9781098176495/) | Mariusz Skoneczko | 2025.09 |
 | ⭐⭐ | [RAG-Driven Generative AI](https://www.oreilly.com/library/view/rag-driven-generative-ai/9781836200918/) | Denis Rothman | 2024.09 |
+
+---
+
+## 🎓 FastCampus 부트캠프 강의
+
+> 📌 **[전체 매핑 문서 보기](./FASTCAMPUS_MAPPING.md)**
+
+### Phase별 핵심 강의
+
+| Phase | 핵심 강의 | 비고 |
+|-------|----------|------|
+| **Phase 1** | ChatGPT/Claude 완벽가이드, 프롬프트 엔지니어링, LangChain, RAG 시스템 | 기초 필수 |
+| **Phase 2** | AI 에이전트 완벽가이드, MCP 에이전트 개발, FastAPI | Agent 핵심 |
+| **Phase 3-A** | Python 데이터 분석, 데이터 시각화, Streamlit | 분석 특화 |
+| **Phase 3-B** | SQL 기초/심화, SQL 데이터 분석 | SQL 특화 |
+| **Phase 3-C** | 데이터 엔지니어링, Python 데이터 분석 | 품질 특화 |
+| **Phase 4** | FastAPI, Streamlit, AI 서비스 배포 | 프로덕션 |
+
+🔗 강의 접속: https://fastcampusbootcamp.skillflo.io/enrollment
 
 ---
 
