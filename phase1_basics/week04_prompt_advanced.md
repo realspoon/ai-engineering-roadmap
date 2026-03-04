@@ -21,6 +21,7 @@
 ## 📖 핵심 개념
 
 ### 1. ReAct (Reasoning + Acting)
+**ReAct(Reasoning + Acting)**는 AI 모델이 복잡한 문제를 해결할 때 **'추론(Reasoning)'**과 **'행동(Acting)'**을 번갈아 가며 수행하도록 유도하는 프롬프트 엔지니어링 기법입니다.
 
 ```
 Thought: 사용자가 날씨를 묻고 있다. 현재 날씨 정보가 필요하다.
