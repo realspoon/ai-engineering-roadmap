@@ -264,4 +264,17 @@ uv sync   # 이것만으로 완전히 동일한 환경 구성 완료
 
 ---
 
+## 🔗 참고 사이트
+
+**uv**
+- 공식 문서: https://docs.astral.sh/uv/
+- GitHub: https://github.com/astral-sh/uv
+
+**Dify**
+- 공식 사이트: https://dify.ai
+- 공식 문서: https://docs.dify.ai
+- GitHub: https://github.com/langgenius/dify
+
+---
+
 [← Week 1](./week01_llm_fundamentals.md) | [Week 3 →](./week03_prompt_basics.md)
